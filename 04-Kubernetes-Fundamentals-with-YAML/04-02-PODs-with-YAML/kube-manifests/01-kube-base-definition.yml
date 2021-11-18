@@ -11,3 +11,4 @@ spec:
 # kind: k8s objects 
 # metadata: define name and labels for k8s objects
 # spec: specification or real definition for k8s objects
+# delete
